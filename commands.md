@@ -12,3 +12,7 @@
 
 5\. git log - Displays the commit history.
 
+6\. git branch - Lists, creates, or deletes branches.
+
+7\. git merge - Combines changes from different branches.
+
